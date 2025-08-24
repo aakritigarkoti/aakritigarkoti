@@ -17,7 +17,7 @@
 ## 🚀 About Me - The Code Architect
 
 🎯 **Passionate AI/ML Engineer** crafting intelligent solutions that matter  
-📚 **Final-year B.Tech CS** at Graphic Era Hill University | **CGPA: 7.66/10**  
+📚 **Final-year B.Tech CS** at Graphic Era Hill University  
 💡 **Innovation Enthusiast** turning complex problems into elegant code  
 🏆 **Amazon SDE Finalist** | Conquered technical assessment rounds  
 ⚡ **285+ LeetCode Warrior** | Campus Rank: **190/1500+** on GeeksForGeeks  
